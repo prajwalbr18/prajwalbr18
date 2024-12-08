@@ -1,3 +1,4 @@
+![logo](https://github.com/prajwalbr18/prajwalbr18/blob/main/github_banner.gif)
 <h1 align="center">Hi 👋, I'm BR Prajwal</h1>
 <h3 align="center">A Aspiring Data Analyst from India</h3>
 
