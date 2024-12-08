@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm BR Prajwal</h1>
 <h3 align="center">A Aspiring Data Analyst from India</h3>
 
@@ -6,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalbr18&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalbr18" /> </p>
 
-- 🌱 I’m currently learning **Microsoft Excel, SQL, Tableau, Python**
+- 🌱 I’m currently learning **Data Analytics**
+
+- 💬 Ask me about **Microsoft Excel, SQL, Tableau, Python**
 
 - 📫 How to reach me **brprajwal507@gmail.com**
 
@@ -22,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalbr18&show_icons=true&locale=en&layout=compact" alt="prajwalbr18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalbr18&show_icons=true&locale=en" alt="prajwalbr18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalbr18&" alt="prajwalbr18" /></p>
